@@ -28,7 +28,8 @@
 }
 
 body {
-  background-color: #393E46;
+  
+  background-color: rgba(94, 9, 9, 0.888);
 }
 
 h1 {
@@ -54,5 +55,4 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
-
 }
